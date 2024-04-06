@@ -12,7 +12,7 @@ I developed a *client-server* model with *WebSocket* infrastructure using *Java*
 # Install
 Git clone to your local repository. 
 ```
-git clone https://github.com/j2695203/Projects.git
+git clone https://github.com/j2695203/AndroidConnectMessenger.git
 ```
 
 # Usage
