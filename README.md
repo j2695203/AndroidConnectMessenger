@@ -16,7 +16,7 @@ git clone https://github.com/j2695203/AndroidConnectMessenger.git
 ```
 
 # Usage
-1. After cloning the repository, go to `MyHttpServer/` to turn on the Http Server first.
+1. After cloning the repository, go to [MyHttpServer](https://github.com/j2695203/MyHttpServer.git) to turn on the Http Server first.
 2. Choose a way to start chatting:
   * Web browser: turn on the web browser and go to ```localhost:8080/WebChat.html```
   * Androind App: go back to repository `AndroidChatClient/`and use Android Studio to execute this project
