@@ -1,4 +1,4 @@
-# Android Chat Client
+# Android Connect Messenger
 ## Welcome to the multi-client chat room!!!! Both 📱 and 💻 are available.
 
 ![This is an image](https://github.com/j2695203/Projects/blob/7fed0fe5943863654345aace65fa07a396e71759/AndroidChatClient/androidChat.gif)
